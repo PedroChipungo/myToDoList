@@ -1,0 +1,17 @@
+{
+  "name": "mytodolist",
+  "version": "1.0.0",
+  "description": "1-How to build server on terminal and make it run?     getting started with nodejs docs",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "uuid": "^10.0.0"
+  }
+}
